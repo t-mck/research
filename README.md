@@ -1,5 +1,5 @@
 # Research
-Decoder/Temperature Inconsistency Analysis. Recreation of paper Figure 6, but vayring the settings of the model's decoder (here the temperature setting) instead of the level of difficulty of the problem. See the included .png image: GSM8K Dataset Reliablity Sets vs Temperature 0.0 to 2.0.png
+Decoder/Temperature Inconsistency Analysis. Recreation of paper Figure 6, but vayring the settings of the model's decoder (here the temperature setting) instead of the level of difficulty of the problem. Analysis in the Figure stems from a G=10 (e.g., empirical sample of 10 trials per prompt) which is used to project model performance out to 100 repitions (i.e. varying r from 1 to 100). See the included .png image: GSM8K Dataset Reliablity Sets vs Temperature 0.0 to 2.0.png
 
 Additionally Figure 1. is recreated using a problem from the MATH dataset.
 
