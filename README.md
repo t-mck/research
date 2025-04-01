@@ -14,3 +14,9 @@ Papers & Technical Reports that discuss using a plurality vote method to select 
 4. Model Car Claude 3 cites Majority Vote of 32 on MATH and several other data sets (See page 6). https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf
 
 5. Notably, the OpenAI GPT4 technical report makes no mention of a majority vote, or plurality vote of any kind. https://arxiv.org/pdf/2303.08774
+
+Discussion of the inability to eliminate randomness in the decoder of OpenAI's models via the API:
+This has been openly discussed on OpenAI’s Developer Community message board here: https://community.openai.com/t/clarifications-on-setting-temperature-0/886447 
+
+Other citations:
+Conformal Language Modeling by Quach, et al. https://arxiv.org/pdf/2306.10193
