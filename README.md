@@ -3,7 +3,14 @@ Decoder/Temperature Inconsistency Analysis. Recreation of paper Figure 6, but va
 
 Additionally Figure 1. is recreated using a problem from the MATH dataset.
 
-Papers & Technical Reports that discuss using a plurality vote method to select the best answer along with the number of repitions they use:
+Additional Citations used in our second reply to rebuttal by Reviewer tt4C
+
+1. Jensen, B., Kwon, J. 2025. "The U.S. Army, Artificial Intelligence, and Mission Command" War On The Rocks. https://warontherocks.com/2025/03/the-u-s-army-artificial-intelligence-and-mission-command/ 
+2. Chief of Staff, US Army. 2021. Army Multi-Domain Transformation Ready to Win in Competition and Conflict. https://api.army.mil/e2/c/downloads/2021/03/23/eeac3d01/20210319-csa-paper-1-signed-print-version.pdf
+3. Young M, Smith MA. Standards and Evaluation of Healthcare Quality, Safety, and Person-Centered Care. 2025 Feb 24. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan–. PMID: 35015457. https://pubmed.ncbi.nlm.nih.gov/35015457/ 
+4. Clusmann, J., Kolbinger, F.R., Muti, H.S. et al. The future landscape of large language models in medicine. Commun Med 3, 141 (2023). https://doi.org/10.1038/s43856-023-00370-1 https://www.nature.com/articles/s43856-023-00370-1#citeas
+
+Additional Papers & Technical Reports that discuss using a plurality vote method to select the best answer along with the number of repitions they use:
 
 1. Wang Et al. Use 20-40 votes. See page 4 and 8. https://arxiv.org/pdf/2203.11171
 
